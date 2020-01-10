@@ -231,14 +231,6 @@
             }
         },
         {
-            "Key": "ecac4f39-98bc-4a39-8c1a-c25757c50df7",
-            "Value": {
-                "id": "3caa8f9c-092f-4f9d-8fc5-69816c05abda",
-                "resourcePath": "sprites\\nicole_test\\nicole_test.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "f3532dba-06c0-4ed0-9ab8-b24efcd76fc4",
             "Value": {
                 "id": "8e04a925-88ca-4053-9ee9-bdbce0334551",
