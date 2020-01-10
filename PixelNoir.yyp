@@ -50,7 +50,7 @@
             "Key": "1cbf06d1-b387-4e7a-b972-f2a249f54475",
             "Value": {
                 "id": "675d751b-fc1c-4032-b317-ce6b4a5bad13",
-                "resourcePath": "sprites\\spr_volON\\spr_volON.yy",
+                "resourcePath": "sprites\\spr_volOFF\\spr_volOFF.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "b9b361c3-93ad-435f-9c07-71ce60576623",
+            "Value": {
+                "id": "ab6d18e0-ef3c-4599-88f3-71a1e2f4ad6c",
+                "resourcePath": "sprites\\spr_volON\\spr_volON.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c7874d93-1a9e-4644-a892-ebfcace99b5d",
             "Value": {
                 "id": "b1f20245-d0dc-449e-b2da-2a14d558b7b6",
@@ -220,14 +228,6 @@
                 "id": "20a4c35e-cb13-452c-a8a7-5a72d59bf306",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
-            }
-        },
-        {
-            "Key": "edbd3e24-0680-477f-a012-632a709e46be",
-            "Value": {
-                "id": "af8aa43c-851c-4015-bb5c-f403446c0b87",
-                "resourcePath": "sprites\\spr_volOFF\\spr_volOFF.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
