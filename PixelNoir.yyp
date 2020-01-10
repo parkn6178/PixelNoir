@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "1cbf06d1-b387-4e7a-b972-f2a249f54475",
+            "Value": {
+                "id": "675d751b-fc1c-4032-b317-ce6b4a5bad13",
+                "resourcePath": "sprites\\spr_volON\\spr_volON.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "242c8a73-777f-42a5-a548-eef664f56346",
             "Value": {
                 "id": "b1007cfb-3cc4-42fc-af1f-1ba5bc9dfbc8",
@@ -95,6 +103,14 @@
             }
         },
         {
+            "Key": "4d24b880-e4fb-43a3-807b-c19f69908029",
+            "Value": {
+                "id": "03108223-48e9-4183-8020-aabea077d8f5",
+                "resourcePath": "sounds\\ButtonPress\\ButtonPress.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4f6b229b-45ca-4962-b9b3-516cbe040b3c",
             "Value": {
                 "id": "78350467-1b88-49f1-99e7-42eea80d5ac9",
@@ -127,6 +143,14 @@
             }
         },
         {
+            "Key": "7ec9ab4b-3a38-43fc-b083-852d5eb942aa",
+            "Value": {
+                "id": "9f85a446-1565-4c06-84fc-91ff6910d1b5",
+                "resourcePath": "sounds\\Background\\Background.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "84cb7493-1a6e-484e-9783-2db3ff0c3f09",
             "Value": {
                 "id": "24019efd-6469-48dc-80e7-606aa009933d",
@@ -148,6 +172,14 @@
                 "id": "6bfda0ae-c8b1-48c7-b375-58ec63625c7d",
                 "resourcePath": "views\\8fcfcdc4-f1c7-4ded-ae36-04593c04dd4a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9ce8fb40-a543-4605-8782-ae580497b668",
+            "Value": {
+                "id": "7af9a90f-2d0f-4c56-9ad2-edb3e2e01968",
+                "resourcePath": "sounds\\PickUp\\PickUp.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -188,6 +220,22 @@
                 "id": "20a4c35e-cb13-452c-a8a7-5a72d59bf306",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "edbd3e24-0680-477f-a012-632a709e46be",
+            "Value": {
+                "id": "af8aa43c-851c-4015-bb5c-f403446c0b87",
+                "resourcePath": "sprites\\spr_volOFF\\spr_volOFF.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f3532dba-06c0-4ed0-9ab8-b24efcd76fc4",
+            "Value": {
+                "id": "8e04a925-88ca-4053-9ee9-bdbce0334551",
+                "resourcePath": "sounds\\Footsteps\\Footsteps.yy",
+                "resourceType": "GMSound"
             }
         },
         {
