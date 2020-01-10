@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "685d2de5-0ad5-41a5-90bc-65f5a1cab2ef",
+            "Value": {
+                "id": "29899f5e-1892-4bef-bb8b-de675fe5a7dd",
+                "resourcePath": "sprites\\police\\police.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6bf9d8f9-5ed3-44a4-8510-5608216cb1d5",
             "Value": {
                 "id": "ca76a4a1-c041-47b3-9c8f-d12d52c08550",
@@ -146,7 +154,7 @@
             "Key": "8aa9a55b-9317-4cce-a354-ab9dde5e75f6",
             "Value": {
                 "id": "7b6315f8-e50e-4084-9b07-5d6f1c458e14",
-                "resourcePath": "sprites\\test\\test.yy",
+                "resourcePath": "sprites\\detective\\detective.yy",
                 "resourceType": "GMSprite"
             }
         },
