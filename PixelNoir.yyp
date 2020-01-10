@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "e0fe7792-bc82-46a0-b034-f2fd7785a17d",
+            "Value": {
+                "id": "cfa4c5dc-b997-4e72-8085-af13c1245e3d",
+                "resourcePath": "sprites\\spri_purplel\\spri_purplel.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f3532dba-06c0-4ed0-9ab8-b24efcd76fc4",
             "Value": {
                 "id": "8e04a925-88ca-4053-9ee9-bdbce0334551",
