@@ -231,10 +231,10 @@
             }
         },
         {
-            "Key": "ecac4f39-98bc-4a39-8c1a-c25757c50df7",
+            "Key": "e0fe7792-bc82-46a0-b034-f2fd7785a17d",
             "Value": {
-                "id": "3caa8f9c-092f-4f9d-8fc5-69816c05abda",
-                "resourcePath": "sprites\\nicole_test\\nicole_test.yy",
+                "id": "cfa4c5dc-b997-4e72-8085-af13c1245e3d",
+                "resourcePath": "sprites\\spri_purplel\\spri_purplel.yy",
                 "resourceType": "GMSprite"
             }
         },
