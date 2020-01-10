@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "31349da2-4e1a-4e57-8d67-177ce8e2dc14",
+            "Value": {
+                "id": "0f17db8c-9527-475c-ad66-b775f72dc73b",
+                "resourcePath": "sprites\\police\\police.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3c2e6d42-1688-4cd8-9659-8ff74e1964e3",
             "Value": {
                 "id": "b4e42c3b-53ba-4504-aae5-47a1c9ec6ecd",
@@ -114,7 +122,7 @@
             "Key": "685d2de5-0ad5-41a5-90bc-65f5a1cab2ef",
             "Value": {
                 "id": "29899f5e-1892-4bef-bb8b-de675fe5a7dd",
-                "resourcePath": "sprites\\police\\police.yy",
+                "resourcePath": "sprites\\asher\\asher.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -127,11 +135,27 @@
             }
         },
         {
+            "Key": "7305c80e-90e9-4592-bf70-b243c011da51",
+            "Value": {
+                "id": "a02e2287-1a73-49d4-91d1-7ededde4f394",
+                "resourcePath": "sprites\\mayor\\mayor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7881606d-9139-4cce-9b23-8256ad204f31",
             "Value": {
                 "id": "ec7be8fa-93f7-409a-8712-0971f4188063",
                 "resourcePath": "views\\7881606d-9139-4cce-9b23-8256ad204f31.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "81380519-94e7-4271-b3ee-0d6063ce1748",
+            "Value": {
+                "id": "b8dd88be-039a-45f5-826c-3607cb0e6e13",
+                "resourcePath": "sprites\\ben\\ben.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
