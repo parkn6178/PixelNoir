@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "31349da2-4e1a-4e57-8d67-177ce8e2dc14",
+            "Value": {
+                "id": "0f17db8c-9527-475c-ad66-b775f72dc73b",
+                "resourcePath": "sprites\\police\\police.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3c2e6d42-1688-4cd8-9659-8ff74e1964e3",
             "Value": {
                 "id": "b4e42c3b-53ba-4504-aae5-47a1c9ec6ecd",
@@ -122,7 +130,7 @@
             "Key": "685d2de5-0ad5-41a5-90bc-65f5a1cab2ef",
             "Value": {
                 "id": "29899f5e-1892-4bef-bb8b-de675fe5a7dd",
-                "resourcePath": "sprites\\police\\police.yy",
+                "resourcePath": "sprites\\asher\\asher.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -135,11 +143,27 @@
             }
         },
         {
+            "Key": "7305c80e-90e9-4592-bf70-b243c011da51",
+            "Value": {
+                "id": "a02e2287-1a73-49d4-91d1-7ededde4f394",
+                "resourcePath": "sprites\\mayor\\mayor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7881606d-9139-4cce-9b23-8256ad204f31",
             "Value": {
                 "id": "ec7be8fa-93f7-409a-8712-0971f4188063",
                 "resourcePath": "views\\7881606d-9139-4cce-9b23-8256ad204f31.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "81380519-94e7-4271-b3ee-0d6063ce1748",
+            "Value": {
+                "id": "b8dd88be-039a-45f5-826c-3607cb0e6e13",
+                "resourcePath": "sprites\\ben\\ben.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -151,10 +175,26 @@
             }
         },
         {
+            "Key": "88d152f7-d616-4343-b97f-0f2d90621614",
+            "Value": {
+                "id": "d1656640-320a-4d7f-a224-779278451ca2",
+                "resourcePath": "sprites\\money\\money.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8aa9a55b-9317-4cce-a354-ab9dde5e75f6",
             "Value": {
                 "id": "7b6315f8-e50e-4084-9b07-5d6f1c458e14",
                 "resourcePath": "sprites\\detective\\detective.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8d4d01e8-e266-410a-9e9c-66c6da776e08",
+            "Value": {
+                "id": "5d50ddda-9a71-43a1-830d-9833b9f658d1",
+                "resourcePath": "sprites\\fries\\fries.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -167,11 +207,27 @@
             }
         },
         {
+            "Key": "9b54cc80-7458-4217-88f5-eceaf803fca0",
+            "Value": {
+                "id": "ced9fcbf-2935-451f-a0f4-2a95d1739dcf",
+                "resourcePath": "sprites\\camera\\camera.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9f7cd67e-73b9-4f1e-8fed-a1500985204e",
             "Value": {
                 "id": "70c036fe-611f-4a77-82ab-092071ca0933",
                 "resourcePath": "views\\9f7cd67e-73b9-4f1e-8fed-a1500985204e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a890f30c-7589-4732-9707-0328ce23d774",
+            "Value": {
+                "id": "b0e17461-5b2a-4726-b028-796e7d43ece8",
+                "resourcePath": "sprites\\notebook\\notebook.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -204,6 +260,22 @@
                 "id": "20a4c35e-cb13-452c-a8a7-5a72d59bf306",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "de632581-0a07-4ab2-b0a3-1f540e6e9fae",
+            "Value": {
+                "id": "0557023a-a0a5-4d6d-8c3a-121cdb6d71d8",
+                "resourcePath": "sprites\\cloth\\cloth.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f13b44a2-85c7-413d-b2da-e22372648ff3",
+            "Value": {
+                "id": "83260466-a9f8-425e-a6ca-a239eb033d4d",
+                "resourcePath": "sprites\\inventory\\inventory.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
